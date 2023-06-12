@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DAM_JAIRO_NAVARRO</string>
+    <string name="id_nombre_apellido">Apellidos y Nombre</string>
+    <string name="id_correo_electronico" />
+    <string name="id_correo">Correo Electrónico</string>
+    <string name="id_clave">Clave</string>
+    <string name="id_fecha">Fecha de Nacimiento</string>
+    <string name="id_carrera">Carrera</string>
+    <string name="boton_enviar">ENVIAR</string>
+</resources>
